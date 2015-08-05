@@ -9,5 +9,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	return 0;
 	printf("1");
 	_DEBUG;
+	_DEBUG;
 }
 
